@@ -16,7 +16,7 @@
 > Problem Statement 
 >> Use SOM, SOM-MQE for health assessment on the data set from the shaft testbed.
 
-## Project Three
+## Project Four
 ### Introduction
 > Use SVM for classification on the data set provided by HW3.  
 
